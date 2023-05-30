@@ -18,10 +18,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Windows 10</b> (21H2)
 
 <h2>Configuration Steps</h2>
-Configure roles in the admin panel. Admin Panel > Agents > Roles. (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the agent panel and vice versa.)
+Configure roles in the admin panel. Admin Panel > Agents > Roles > Add New Role > Type "Supreme Admin" for the name > Add role > Check every box under the permissions tab > Add role. (NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the agent panel and vice versa.)
 </p>
 <p>
 <img src="https://i.imgur.com/qW13T9X.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/TJSfFGO.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/ThIBP4n.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/a6v9A4D.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/5u70CPs.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/c7SBPVB.png" height="80%" width="80%"/> 
+</p> 
 </p>
 <br />
 
