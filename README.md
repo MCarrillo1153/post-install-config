@@ -44,40 +44,49 @@ Configure roles in the admin panel. Admin Panel > Agents > Roles > Add New Role 
 Configure the departments. Admin Panel > Agents > Departments > Type: System Administrators for department name > Create Dept.
 </p>
 <p>
-<img src="https://i.imgur.com/EOVfPq7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EOVfPq7.png" height="80%" width="80%"/>
 </p>
 <p>
-<img src="https://i.imgur.com/4uE6s4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4uE6s4j.png" height="80%" width="80%"/>
 </p>
 <p>
-<img src="https://i.imgur.com/PWPXqjz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PWPXqjz.png" height="80%" width="80%" />
 </p>
 <br />
 
-Configure Teams. Admin Panel > Agents > Teams > Add Teams (Create Level I Support and Level II Support)
+Configure Teams. Admin Panel > Agents > Teams > Add Teams (Create Level II Support) > Add yourself as a memeber of Level II Support > Create Team.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rmDERXy.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/p3ilQ2Q.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/TQkNIUR.png" height="80%" width="80%"/>
+</p>
+<p>
+<img src="https://i.imgur.com/C9hWdIG.png" height="80%" width="80%"/>
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Allow anyone to create tickets. Admin Panel > Settings > User Settings. Check the box to Require Registration and login to create tickets > Save Changes.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7k2G95V.png" height="80%" width="80%"/>
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congfigure Agents (For employees that work the tickets). Go to Agents tab > Agents > Add new Agent (NOTE: make sure you are still in the admin panel). 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/d3YfKpL" height="80%" width="80%" alt=/>
 </p>
 <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Give the new agent a random name you'd like, in my instance I will use "Jane Doe". Check the Administrator box > Set Password to whatever you'd like >   
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt=""/>
 </p>
 <br />
