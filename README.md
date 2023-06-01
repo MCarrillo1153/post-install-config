@@ -80,13 +80,27 @@ Allow anyone to create tickets. Admin Panel > Settings > User Settings. Check th
 Congfigure Agents (For employees that work the tickets). Go to Agents tab > Agents > Add new Agent (NOTE: make sure you are still in the admin panel). 
 </p>
 <p>
-<img src="https://imgur.com/a/d3YfKpL" height="80%" width="80%" alt=/>
+<img src="https://i.imgur.com/aZPNENy.pngL" height="80%" width="80%"/>
 </p>
 <br />
 
-Give the new agent a random name you'd like, in my instance I will use "Jane Doe". Check the Administrator box > Set Password to whatever you'd like >   
+Give the new agent a random name you'd like, in my instance I will use "Jane Doe". Check the Administrator box > Set Username to whatever you like > Set Password > Uncheck "Send the agent a password reset email" then uncheck require password change at next login > Set any password you like > Set
 </p>
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/9T3bAkd.png" height="80%" width="80%"/>
+</p>
+<br />
+
+Set the department for the agent in the Access tab > Under Permissions check all the boxes > Under Teams tab add Level I support.
+</p>
+<p>
+<img src="https://i.imgur.com/1ppSvQ5.png" height="80%" width="80%"/>
+</p>
+<br />
+
+Give the new agent a random name you'd like, in my instance I will use "Jane Doe". Check the Administrator box > Set Username to whatever you like > Set Password > Uncheck "Send the agent a password reset email" then uncheck require password change at next login > Set any password you like > Set
+</p>
+<p>
+<img src="https://i.imgur.com/9T3bAkd.png" height="80%" width="80%"/>
 </p>
 <br />
